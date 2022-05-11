@@ -1,0 +1,21 @@
+.Top{
+    background-color: rgb(55, 55, 252);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Name { 
+    color: white;
+    font-size: 50px;
+    text-align: left;
+    margin-left: 1cm;
+    
+
+}
+
+.About { 
+    color: white;
+    text-align: right;
+    font-size: 25px;
+}
